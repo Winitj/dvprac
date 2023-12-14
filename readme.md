@@ -1,1 +1,1 @@
-vinit is my name 
+my name is vinit 
